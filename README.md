@@ -1,3 +1,4 @@
+PARAMETER MAP
 fractal-quantum-gravity/
 ├── simulations/               # All simulation codes
 │   ├── adaptive_rg/          # RG flow simulations
